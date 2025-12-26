@@ -1,5 +1,4 @@
 
-/*created by prashant shukla */
 
 var paddle2 =10,paddle1=10;
 
@@ -225,3 +224,4 @@ function restart()
   pcscore = 0;
   loop();
 }
+
